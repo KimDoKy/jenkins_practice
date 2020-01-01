@@ -1,0 +1,6 @@
+.secret/
+*.swp
+.DS_Store
+*.sqlite3
+.python-version
+.idea
